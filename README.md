@@ -1,5 +1,4 @@
 <h1 align="center">Hello There, I'm Hydridity</h1>
-<h3 align="center">Das me</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
